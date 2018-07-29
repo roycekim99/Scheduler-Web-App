@@ -1,0 +1,23 @@
+//Final output will look something similar to the images in the "Preview Final" folder.
+
+
+-I think it's possible to use JS to make the main calendar part. There's a few things that it has to contain (animations, embeded to-do list visualizer etc...)
+  So I wanna see if it's possible to use with JS. Probably easier to program too....
+  
+-Right side dedicated To-Do list panel
+  -holds all to do list as texts and time check box to each item.
+    -- will be checked off when "completed"
+  -Displays to do list for "The day", "the month" and "the year"
+    --these are different scopes by the way. It's like "things I gotta complete today" vs "monthly goals" or "yearly goals"
+    
+-Month text must auto updated to curent month.
+  -Can be switched on user's button press...
+    -- this part should be the easiest part probably
+    
+-On the top banner, the right side will have a "Quote of the day" thing 
+  -wil lupdate every day
+  
+-Style of website changes depending on sundown/sunrise.
+  -refer to dark/light theme folder
+  
+
