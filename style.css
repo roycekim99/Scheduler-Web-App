@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Exo:100,200i');
 
+html{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    overflow: hidden;
+    border: 0;
+}
+
+canvas{
+    border: 0;
+    margin: 0px;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +24,6 @@
 }
 
 body {
-
     background: #dce5e4;
 
 }
@@ -35,4 +47,9 @@ body {
     background: #232323;
     width: 100%;
     height: 90px;
-  }
+}
+
+.ToDo{
+    float: right;
+    margin-right: 0px;
+}
